@@ -1,4 +1,4 @@
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1418633/screenshots/4872860/illustration.png">
+<img align="right" width="400" src="https://i.pinimg.com/originals/9f/c2/12/9fc2126eec2c0a3876e3f2097af9b983.gif">
 <h1 align="center">Hi 👋, I'm Narender Singh Bisht</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
