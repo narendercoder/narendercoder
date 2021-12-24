@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Narender Singh Bisht</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+-I'm currently student at Maharaja agarsen institute of technology
+
 - 🔭 I’m currently working on [Digital Art](https://www.instagram.com/artist_narender/)
 
 - 🌱 I’m currently learning **web designing**
