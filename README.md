@@ -1,5 +1,5 @@
 <img align="right" width="400" src="https://i.pinimg.com/originals/9f/c2/12/9fc2126eec2c0a3876e3f2097af9b983.gif">
-<h1 align="center">Hi 👋, I'm Narender Singh Bisht</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/kCMry3iScFtypKZXWn/giphy.gif">, I'm Narender Singh Bisht</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 👨‍💻 I'm currently pursuing B.Tech in electrical and electronic engineering at [Maharaja agrasen institute of technology](https://mait.ac.in/)
