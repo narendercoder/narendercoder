@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Narender Singh Bisht</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 I'm currently persuing B.Tech in electrical and electronic engineering at [Maharaja agrasen institute of technology](https://mait.ac.in/)
+- 👨‍💻 I'm currently pursuing B.Tech in electrical and electronic engineering at [Maharaja agrasen institute of technology](https://mait.ac.in/)
 
 - 🔭 I’m currently working on [Digital Art](https://www.instagram.com/artist_narender/)
 
