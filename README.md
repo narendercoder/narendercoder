@@ -3,13 +3,13 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" width="400" src="https://i.pinimg.com/originals/9f/c2/12/9fc2126eec2c0a3876e3f2097af9b983.gif">
 
-- 👨‍💻 I'm currently pursuing B.Tech in electrical and electronic engineering at [Maharaja agrasen institute of technology](https://mait.ac.in/)
+- 👨‍💻 I'm currently pursuing B.Tech in electrical and electronic engineering at [Maharaja agrasen institute of technology](https://mait.ac.in/).
+ 
+- 🎨 [Digital Artist](https://www.instagram.com/artist_narender/) by Passion.
 
-- 🔭 I’m currently working on [Digital Art](https://www.instagram.com/artist_narender/)
+- 🌱 I’m currently learning **web development**.
 
-- 🌱 I’m currently learning **web designing**
-
-- 📫 How to reach me **narendersinghbisht382@gmail.com**
+- 📫 How to reach me **narendersinghbisht382@gmail.com**.
 
 
 <h3 align="left">Connect with me:</h3>
