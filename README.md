@@ -75,8 +75,8 @@
 ![](https://komarev.com/ghpvc/?username=narendercoder)
 
  <p align="left">
-    <a href="https://github.com/narendercoder/github-readme-stats"><img alt="narendercoder's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=narendercoder&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/narendercoder/github-readme-stats"><img alt="narendercoder's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=narendercoder&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
  <br></br>
-    <a href="https://github.com/narendercoder/github-readme-stats"><img alt="narendercoder's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=narendercoder&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/narendercoder/github-readme-stats"><img alt="narendercoder's Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=narendercoder&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
