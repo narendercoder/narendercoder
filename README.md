@@ -1,13 +1,15 @@
 
 <h1 align="center">Hi <img width="40" src="https://media.giphy.com/media/kCMry3iScFtypKZXWn/giphy.gif">, I'm Narender Singh Bisht</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" width="400" src="https://i.pinimg.com/originals/9f/c2/12/9fc2126eec2c0a3876e3f2097af9b983.gif">
+<div align="center"><img  width="400" src="https://i.pinimg.com/originals/9f/c2/12/9fc2126eec2c0a3876e3f2097af9b983.gif">
+</div>
+<br/>
 
-- 👨‍💻 I'm currently pursuing B.Tech in electrical and electronic engineering at [Maharaja agrasen institute of technology](https://mait.ac.in/).
+- 👨‍💻 I'm currently pursuing B.Tech in electrical and electronic engineering at [Maharaja Agrasen Institute of Technology](https://mait.ac.in/)
  
 - 🎨 [Digital Artist](https://www.instagram.com/artist_narender/) by Passion.
 
-- 🌱 I’m currently learning **web development**.
+- 🌱 I’m **Full Stack web development**.
 
 - 📫 How to reach me **narendersinghbisht382@gmail.com**.
 
