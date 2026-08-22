@@ -5,7 +5,7 @@
 </div>
 <br/>
 
-- 👨‍💻 I'm currently pursuing B.Tech in electrical and electronic engineering at [Maharaja Agrasen Institute of Technology](https://mait.ac.in/)
+- 👨‍💻 I'm graduated with a B.Tech in electrical and electronic engineering at [Maharaja Agrasen Institute of Technology](https://mait.ac.in/)
  
 - 🎨 [Digital Artist](https://www.instagram.com/artist_narender/) by Passion.
 
