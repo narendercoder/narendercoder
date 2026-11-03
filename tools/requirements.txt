@@ -1,0 +1,6 @@
+# Build dependencies for tools/md_to_pdf.py
+# Install with:  python3 -m pip install -r tools/requirements.txt
+reportlab
+markdown
+beautifulsoup4
+fonttools
